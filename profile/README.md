@@ -86,16 +86,6 @@
           <img src="https://github.com/hvvup.png" width="60px"/>
         </a>
       </td>
-      <td rowspan="3" width="20px"></td>
-      <td rowspan="3" align="center" width="160px">
-        <br/>
-        <b>Mentor</b><br/>
-        <a href="https://www.linkedin.com/in/sjhk/">홍성진</a>
-        <br/><br/>
-        <b>Project Leader</b><br/>
-        박민서
-        <br/>
-      </td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/Minsu00326">김민수</a></td>
