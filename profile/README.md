@@ -28,7 +28,7 @@
     <tr>
       <td align="center" width="200px">
         <a href="https://beaver-dam.net/kr">
-          <img src="https://raw.githubusercontent.com/unitelivedispersedie/.github/main/profile/beaverdam1.png" width="100"/>
+          <img src="https://raw.githubusercontent.com/unitelivedispersedie/.github/main/profile/beaverdam1.png" width="300"/>
         </a>
         <br/>
         <sub><b>교육 제공</b></sub>
@@ -37,7 +37,7 @@
       </td>
       <td align="center" width="200px">
         <a href="https://baby.beaver-dam.net/kr">
-          <img src="https://raw.githubusercontent.com/unitelivedispersedie/.github/main/profile/babybeavers1.png" width="100"/>
+          <img src="https://raw.githubusercontent.com/unitelivedispersedie/.github/main/profile/babybeavers1.png" width="300"/>
         </a>
         <br/>
         <sub><b>프로그램</b></sub>
