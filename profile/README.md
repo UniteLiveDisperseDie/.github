@@ -113,6 +113,6 @@
 
   <br/>
 
-  <sub>Mentored by <a href="https://www.linkedin.com/in/sjhk/">홍성진</a> · Guided by <a href="[https://beaver-dam.net/kr](https://www.linkedin.com/in/minseo-park-3b35a0384/)">박민서</a></sub>
+  <sub>Mentored by <a href="https://www.linkedin.com/in/sjhk/">홍성진</a> · Guided by <a href="https://beaver-dam.net/kr](https://www.linkedin.com/in/minseo-park-3b35a0384">박민서</a></sub>
 
 </div>
